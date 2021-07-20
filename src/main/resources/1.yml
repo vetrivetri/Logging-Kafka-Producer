@@ -1,0 +1,4 @@
+logging:
+  kafka:
+    bootstrap:
+      server:  localhost:9092
